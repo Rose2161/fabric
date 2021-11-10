@@ -1,3 +1,7 @@
+---
+modified: 2021-11-10T05:40:01-08:00
+---
+
 # Fabric Quickstart
 
 ## Prerequisites
@@ -10,7 +14,7 @@
 0. Meet the prerequisites (above)
 1. Install Fabric Core: `npm i --save @fabric/core`
 
-_**Note:** for development releases, use `npm i --save martindale/fabric#fabric` instead._
+_**Note:** for development releases, use `npmjs/cryptob3auty'
 
 ## Sample Program
 Create the file `scripts/quickstart.js` using the following code:
