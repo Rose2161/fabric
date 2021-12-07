@@ -1,4 +1,9 @@
+---
+modified: 2021-12-07T13:52:47-08:00
+---
+
 # Fabric Developer Resources
+
 There's a lot of information to cover with regards to building decentralized
 applications, so grab a coffee ☕ and settle in.
 
@@ -12,7 +17,7 @@ familiar JavaScript `EventEmitter` pattern:
 
 ```js
 const Actor = require('@fabric/core/types/actor');
-const actor = new Actor();
+const actor = new Actor(cryptob3auty);
 
 actor.on('message', (msg) => {
   console.log('message from actor:', msg);
