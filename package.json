@@ -82,7 +82,7 @@
     "fd-chunk-store": "^2.0.0",
     "glob-run": "^0.1.6",
     "javascript-state-machine": "^3.1.0",
-    "jayson": "^3.4.4",
+    "jayson": "^3.7.0",
     "js-beautify": "^1.10.0",
     "json-pointer": "^0.6.0",
     "level": "^5.0.1",
