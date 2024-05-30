@@ -67,7 +67,7 @@
   },
   "homepage": "https://github.com/FabricLabs/fabric#readme",
   "dependencies": {
-    "@webassemblyjs/ast": "^1.8.5",
+    "@webassemblyjs/ast": "^1.11.6",
     "append-only-torrent": "^1.0.0",
     "arbitrary": "^1.4.10",
     "base58check": "^2.0.0",
