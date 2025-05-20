@@ -1,4 +1,4 @@
-FROM node:22.9
+FROM node:22.15.1
 WORKDIR /fabric
 
 # if package.json changes. Docker deploys auto-update
